@@ -1,0 +1,50 @@
+# Copyright (C) 2015 Flag Me
+# This file is distributed under the same license as the Flag Me package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Flag Me 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/flag-me\n"
+"POT-Creation-Date: 2015-11-16 12:49:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Antonio Caggiano <sir.fahien@gmail.com>\n"
+
+#: admin/flag-me_admin.php:12
+msgid "Options"
+msgstr "Opzioni"
+
+#: admin/flag-me_admin.php:13
+msgid "Currently there are"
+msgstr "Attualmente ci sono"
+
+#: admin/flag-me_admin.php:14
+msgid "no options"
+msgstr "zero opzioni"
+
+#: admin/flag-me_admin.php:15
+msgid "See you later"
+msgstr "Ci vediamo"
+
+#: admin/flag-me_admin.php:66
+msgid "Select language"
+msgstr "Seleziona lingua"
+
+#: admin/flag-me_admin.php:86
+msgid "Language"
+msgstr "Lingua"
+
+#. Plugin Name of the plugin/theme
+msgid "Flag Me"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.fahien.me/flag-me"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Flag Me enables you to add a nice international flag to your posts or pages."
+msgstr "Flag me ti permette di aggiungere una simpatica bandierina internazionale ai tuoi articoli o alle tue pagine."
+

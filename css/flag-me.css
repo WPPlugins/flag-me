@@ -1,0 +1,100 @@
+.secondary
+.flagme-ar {
+	background-image: url("../icons/ar.png");
+}
+
+.secondary
+.flagme-de {
+	background-image: url("../icons/de.png");
+}
+
+.secondary
+.flagme-en {
+	background-image: url("../icons/en.png");
+}
+
+.secondary
+.flagme-es {
+	background-image: url("../icons/es.png");
+}
+
+.secondary
+.flagme-fa {
+	background-image: url("../icons/fa.png");
+}
+
+.secondary
+.flagme-fi {
+	background-image: url("../icons/fi.png");
+}
+
+.secondary
+.flagme-fr {
+	background-image: url("../icons/fr.png");
+}
+
+.secondary
+.flagme-it {
+	background-image: url("../icons/it.png");
+}
+
+.secondary
+.flagme-ja {
+	background-image: url("../icons/ja.png");
+}
+
+.secondary
+.flagme-nl {
+	background-image: url("../icons/nl.png");
+}
+
+.secondary
+.flagme-no {
+	background-image: url("../icons/no.png");
+}
+
+.secondary
+.flagme-pl {
+	background-image: url("../icons/pl.png");
+}
+
+.secondary
+.flagme-pt {
+	background-image: url("../icons/pt.png");
+}
+
+.secondary
+.flagme-ru {
+	background-image: url("../icons/ru.png");
+}
+
+.secondary
+.flagme-sv {
+	background-image: url("../icons/sv.png");
+}
+
+.secondary
+.flagme-uk {
+	background-image: url("../icons/uk.png");
+}
+
+.secondary
+.flagme-vi {
+	background-image: url("../icons/vi.png");
+}
+
+.secondary
+.flagme-zh {
+	background-image: url("../icons/zh.png");
+}
+
+.secondary
+.flagme {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 0.25em;
+	margin-bottom: 0.25em;
+	width: 22px;
+	height: 16px;
+	background-repeat: no-repeat;
+}
